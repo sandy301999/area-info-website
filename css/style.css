@@ -50,3 +50,17 @@ footer {
 footer p {
     margin: 0;
 }
+
+/* Style for images */
+.main-image, .section-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+}
+
+/* Additional padding for the section */
+section img {
+    margin-top: 20px;
+    border-radius: 8px;
+}
